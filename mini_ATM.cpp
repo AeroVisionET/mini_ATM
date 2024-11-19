@@ -163,7 +163,7 @@ int main()
                         break;
                 }
 
-            } while (true);
+            } while (1);
         }
         else
         {
@@ -171,7 +171,7 @@ int main()
             _getch();
         }
 
-    } while (true);
+    } while (1);
 
     return 0;
 }
