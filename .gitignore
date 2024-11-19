@@ -1,4 +1,8 @@
-*.exe
-
+# Ignore .vscode directory
 .vscode/
+
+# Ignore build directory
 build/
+
+# Ignore all .exe files
+*.exe
